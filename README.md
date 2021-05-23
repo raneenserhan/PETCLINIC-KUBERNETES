@@ -21,7 +21,7 @@ https://hub.docker.com/r/raneenshub/spring-docker/tags?page=1&ordering=last_upda
 `$ kubectl apply -f petclinic.yml`<br/><br/>
 2. Run `kubectl get deployments` to check if the Deployment was created.<br/><br/>
 3. open browser with url = https://localhost/8080
- 
+ ![pitclinic](https://user-images.githubusercontent.com/82150368/119245102-31762880-bb7f-11eb-83e6-25638c82367e.png)
 
 ------------------------------------------------------------------------------------------------<br/>
 ### Versions:
